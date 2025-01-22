@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BanerjeeIndrasish
-- 👀 I’m interested in software and game developing.
-- 🌱 I’m currently learning game developing.
+- 👀 I’m interested in softwares and games.
+- 🌱 I’m currently working as a software and game developer.
 - 💞️ I’m looking to collaborate on developing.
 - 📫 How to reach me -> +91-8972534440, indrasish820@gmail.com
 
